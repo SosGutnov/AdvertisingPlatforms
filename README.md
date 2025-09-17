@@ -11,7 +11,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [<your-repo-url>](https://github.com/SosGutnov/AdvertisingPlatforms)
+git clone https://github.com/SosGutnov/AdvertisingPlatforms
 cd AdPlatformService
 ```
 2. Восстановите зависимости:
