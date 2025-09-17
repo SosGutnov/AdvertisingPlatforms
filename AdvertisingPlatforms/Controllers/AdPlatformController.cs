@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AdvertisingPlatforms.Controllers
 {
     [ApiController]
+    [Route("api/[controller]")]
     public class AdPlatformController : Controller
     {
         private readonly IAdPlatformService adPlatformService;
