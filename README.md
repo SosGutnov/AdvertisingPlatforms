@@ -14,16 +14,15 @@
 git clone <your-repo-url>
 cd AdPlatformService
 ```
-
+2. Восстановите зависимости:
 ```bash
 dotnet restore
 ```
-
+3. Запустите приложение:
 ```bash
 dotnet run
 ```
-
-Приложение будет доступно по адресу: https://localhost:7000 или http://localhost:5000
+4. Приложение будет доступно по адресу: https://localhost:7000 или http://localhost:5000
 
 API Endpoints
 1. Загрузка файла с рекламными площадками
