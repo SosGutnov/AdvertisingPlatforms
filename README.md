@@ -24,7 +24,7 @@ dotnet run
 ```
 4. Приложение будет доступно по адресу: https://localhost:7000 или http://localhost:5000
 
-## API Endpoints
+# API Endpoints
 # 1. Загрузка файла с рекламными площадками
 POST /api/adplatform/upload
 
@@ -32,7 +32,7 @@ POST /api/adplatform/upload
 
 Параметры:
 
-*file: Файл в формате текстового файла
+file: Файл в формате текстового файла
 
 Пример файла:
 ```text
